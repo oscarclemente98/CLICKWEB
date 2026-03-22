@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "835cd14b-44ba-4ca7-8b39-8f0a5d406ed1",
+      "name": "Oscar",
+      "email": "oscar@example.com",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "plan": "free",
+      "createdAt": "2026-03-21T23:37:57.699Z",
+      "updatedAt": "2026-03-21T23:37:57.699Z"
+    }
+  ],
+  "websites": [
+    {
+      "id": "test1",
+      "description": "tienda de calcetines",
+      "html": "<html></html>",
+      "template": "Tienda de calcetines",
+      "seo": {
+        "score": 78
+      },
+      "createdAt": "2026-03-21T23:38:04.686Z",
+      "updatedAt": "2026-03-21T23:38:04.686Z",
+      "status": "draft",
+      "plan": "free",
+      "userId": "835cd14b-44ba-4ca7-8b39-8f0a5d406ed1",
+      "publishedUrl": null
+    }
+  ]
+}
